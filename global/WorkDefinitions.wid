@@ -79,6 +79,49 @@
      "displayName" : "Decision Task",
      "icon" : "defaultdecisionicon.png",
      "category" : "Decision tasks"
-   ]
+   ],
+   
+   [
+     "name" : "HotelPrebooking",
+     "parameters" : [
+     ],
+     "displayName" : "Hotel Pre-Booking",
+     "icon" : "defaultdecisionicon.png",
+     "category" : "Hotel Tasks"
+   ],
+   [
+     "name" : "HotelBooking",
+     "parameters" : [
+     ],
+     "displayName" : "Hotel Booking",
+     "icon" : "defaultdecisionicon.png",
+     "category" : "Hotel Tasks"
+   ],
+   
+   [
+     "name" : "FlightPrebooking",
+     "parameters" : [
+     ],
+     "displayName" : "Flight Pre-Booking",
+     "icon" : "defaultdecisionicon.png",
+     "category" : "Flight Tasks"
+   ],
+   [
+     "name" : "FlightBooking",
+     "parameters" : [
+     ],
+     "displayName" : "Flight Booking",
+     "icon" : "defaultdecisionicon.png",
+     "category" : "Flight Tasks"
+   ],
+   
+   [
+     "name" : "CreditApproval",
+     "parameters" : [
+     ],
+     "displayName" : "Credit Authorization",
+     "icon" : "defaultdecisionicon.png",
+     "category" : "Credit Tasks"
+   ],
 
 ]
