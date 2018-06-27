@@ -18,12 +18,6 @@
         </work-item-handler>
         <work-item-handler>
             <resolver>mvel</resolver>
-            <identifier>com.myspace.advanced_dallas.mock_wih.CreditWih</identifier>
-            <parameters/>
-            <name>Credit</name>
-        </work-item-handler>
-        <work-item-handler>
-            <resolver>mvel</resolver>
             <identifier>com.myspace.advanced_dallas.mock_wih.HotelPreBookingWih</identifier>
             <parameters/>
             <name>HotelPrebooking</name>
@@ -33,6 +27,12 @@
             <identifier>com.myspace.advanced_dallas.mock_wih.FlightPreBookingWih</identifier>
             <parameters/>
             <name>FlightPrebooking</name>
+        </work-item-handler>
+        <work-item-handler>
+            <resolver>mvel</resolver>
+            <identifier>com.myspace.advanced_dallas.mock_wih.CreditWih</identifier>
+            <parameters/>
+            <name>CreditApproval</name>
         </work-item-handler>
         <work-item-handler>
             <resolver>mvel</resolver>
