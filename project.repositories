@@ -3,17 +3,17 @@
     <repository>
       <include>true</include>
       <metadata>
-        <id>local</id>
-        <url>/home/jboss/.m2/repository</url>
-        <source>LOCAL</source>
+        <id>repo-QV5GtQJkYgFwNgy1</id>
+        <url>http://nexus:8081/nexus/content/groups/maven-public/</url>
+        <source>SETTINGS</source>
       </metadata>
     </repository>
     <repository>
       <include>true</include>
       <metadata>
-        <id>repo-QV5GtQJkYgFwNgy1</id>
-        <url>http://nexus:8081/nexus/content/groups/maven-public/</url>
-        <source>SETTINGS</source>
+        <id>local</id>
+        <url>/home/jboss/.m2/repository</url>
+        <source>LOCAL</source>
       </metadata>
     </repository>
     <repository>
