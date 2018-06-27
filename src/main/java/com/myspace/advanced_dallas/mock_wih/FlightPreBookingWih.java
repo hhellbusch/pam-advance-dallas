@@ -1,6 +1,7 @@
 package com.myspace.advanced_dallas.mock_wih;
 
 import java.util.Map;
+import java.util.HashMap;
 
 import org.kie.api.runtime.process.WorkItem;
 import org.kie.api.runtime.process.WorkItemHandler;
