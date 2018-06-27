@@ -11,31 +11,31 @@
     <globals/>
     <work-item-handlers>
         <work-item-handler>
-            <resolver>mvel</resolver>
+            <resolver>reflection</resolver>
             <identifier>com.myspace.advanced_dallas.mock_wih.FlightBookingWih</identifier>
             <parameters/>
             <name>FlightBooking</name>
         </work-item-handler>
         <work-item-handler>
-            <resolver>mvel</resolver>
+            <resolver>reflection</resolver>
             <identifier>com.myspace.advanced_dallas.mock_wih.HotelPreBookingWih</identifier>
             <parameters/>
             <name>HotelPrebooking</name>
         </work-item-handler>
         <work-item-handler>
-            <resolver>mvel</resolver>
+            <resolver>reflection</resolver>
             <identifier>com.myspace.advanced_dallas.mock_wih.FlightPreBookingWih</identifier>
             <parameters/>
             <name>FlightPrebooking</name>
         </work-item-handler>
         <work-item-handler>
-            <resolver>mvel</resolver>
+            <resolver>reflection</resolver>
             <identifier>com.myspace.advanced_dallas.mock_wih.CreditWih</identifier>
             <parameters/>
             <name>CreditApproval</name>
         </work-item-handler>
         <work-item-handler>
-            <resolver>mvel</resolver>
+            <resolver>reflection</resolver>
             <identifier>com.myspace.advanced_dallas.mock_wih.HotelBookingWih</identifier>
             <parameters/>
             <name>HotelBooking</name>
