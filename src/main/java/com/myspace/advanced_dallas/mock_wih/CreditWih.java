@@ -17,7 +17,7 @@ public class CreditWih implements WorkItemHandler {
 		//TODO from proc info retrive room info so it can be eval'd by service
 
 		// build response obj
-		Map<String, Object> results = new HashMap<>();
+		Map<String, Object> results = new HashMap<String, Object>();
 		// results.put("output_mapping_f1", "value 1");
 		// results.put("output_mapping_f2", 2);
 
