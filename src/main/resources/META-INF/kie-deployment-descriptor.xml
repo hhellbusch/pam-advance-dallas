@@ -48,7 +48,7 @@
         </work-item-handler>
         <work-item-handler>
             <resolver>reflection</resolver>
-            <identifier>com.myspace.advanced_dallas.mock_wih.CancelFlightSeatWih	</identifier>
+            <identifier>com.myspace.advanced_dallas.mock_wih.CancelFlightSeatWih</identifier>
             <parameters/>
             <name>CancelSeat</name>
         </work-item-handler>
