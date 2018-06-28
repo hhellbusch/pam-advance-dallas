@@ -23,7 +23,7 @@
             <name>HotelPrebooking</name>
         </work-item-handler>
         <work-item-handler>
-            <resolver>mvel</resolver>
+            <resolver>reflection</resolver>
             <identifier>com.myspace.advanced_dallas.mock_wih.CancelHotelRoomWih	</identifier>
             <parameters/>
             <name>CancelRoom</name>
