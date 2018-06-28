@@ -7,7 +7,7 @@ import org.kie.api.runtime.process.WorkItem;
 import org.kie.api.runtime.process.WorkItemHandler;
 import org.kie.api.runtime.process.WorkItemManager;
 
-public class CancelFlightSeat implements WorkItemHandler {
+public class CancelFlightSeatWih implements WorkItemHandler {
 
   public void executeWorkItem(WorkItem workItem, WorkItemManager manager) {
     Map<String, Object> results = new HashMap<String, Object>();
