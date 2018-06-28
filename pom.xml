@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.myspace</groupId>
   <artifactId>advanced-dallas</artifactId>
-  <version>2.0.0-per_process_instance</version>
+  <version>3.0.0-per_process_instance</version>
   <packaging>kjar</packaging>
   <name>advanced-dallas</name>
   <description>hotel and flight booking</description>
@@ -13,11 +13,6 @@
       <groupId>org.redhat.hhellbus</groupId>
       <artifactId>pam-hotel</artifactId>
       <version>1.0.0</version>
-    </dependency>
-        <dependency>
-        <groupId>org.redhat.hhellbus</groupId>
-        <artifactId>pam-credit</artifactId>
-        <version>0.0.1</version>
     </dependency>
     <dependency>
       <groupId>com.thoughtworks.xstream</groupId>
@@ -55,7 +50,6 @@
       <version>7.7.0.Final-redhat-7</version>
       <scope>provided</scope>
     </dependency>
-
   </dependencies>
   <build>
     <plugins>
