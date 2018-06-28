@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.myspace</groupId>
   <artifactId>advanced-dallas</artifactId>
-  <version>3.5.0-per_process_instance</version>
+  <version>3.6.0-per_process_instance</version>
   <packaging>kjar</packaging>
   <name>advanced-dallas</name>
   <description>hotel and flight booking</description>
