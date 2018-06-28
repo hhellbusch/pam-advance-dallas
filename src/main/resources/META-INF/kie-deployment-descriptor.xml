@@ -6,7 +6,13 @@
     <persistence-mode>JPA</persistence-mode>
     <runtime-strategy>PER_PROCESS_INSTANCE</runtime-strategy>
     <marshalling-strategies/>
-    <event-listeners/>
+    <event-listeners>
+        <event-listener>
+            <resolver>reflection</resolver>
+            <identifier>com.myspace.advanced_dallas.event_listeners.BookingWSProcessEventListener</identifier>
+            <parameters/>
+        </event-listener>
+    </event-listeners>
     <task-event-listeners/>
     <globals/>
     <work-item-handlers>
