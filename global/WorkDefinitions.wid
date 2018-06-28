@@ -81,10 +81,17 @@
      "category" : "Decision tasks"
    ],
    
-   [
+    [
      "name" : "HotelPrebooking",
 
      "displayName" : "Hotel Pre-Booking",
+     "icon" : "defaultdecisionicon.png",
+     "category" : "Hotel Tasks"
+    ],
+    [
+     "name" : "CancelRoom",
+
+     "displayName" : "Cancel Room",
      "icon" : "defaultdecisionicon.png",
      "category" : "Hotel Tasks"
    ],
@@ -107,6 +114,13 @@
      "name" : "FlightBooking",
 
      "displayName" : "Flight Booking",
+     "icon" : "defaultdecisionicon.png",
+     "category" : "Flight Tasks"
+   ],
+      [
+     "name" : "CancelSeat",
+
+     "displayName" : "Cancel Seat",
      "icon" : "defaultdecisionicon.png",
      "category" : "Flight Tasks"
    ],
