@@ -15,6 +15,11 @@
       <version>1.0.0</version>
     </dependency>
     <dependency>
+      <groupId>org.redhat.hhellbus</groupId>
+      <artifactId>pam-credit</artifactId>
+      <version>0.0.1</version>
+    </dependency>
+    <dependency>
       <groupId>com.thoughtworks.xstream</groupId>
       <artifactId>xstream</artifactId>
       <version>1.4.10</version>
