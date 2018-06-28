@@ -11,17 +11,17 @@
     <repository>
       <include>true</include>
       <metadata>
-        <id>local</id>
-        <url>/home/jboss/.m2/repository</url>
-        <source>LOCAL</source>
+        <id>repo-iidAUeh8NnCyb4f5</id>
+        <url>http://nexus-pam7-dallas-take3.apps.na37.openshift.opentlc.com/nexus/content/groups/maven-public/</url>
+        <source>SETTINGS</source>
       </metadata>
     </repository>
     <repository>
       <include>true</include>
       <metadata>
-        <id>repo-iidAUeh8NnCyb4f5</id>
-        <url>http://nexus-pam7-dallas-take3.apps.na37.openshift.opentlc.com/nexus/content/groups/maven-public/</url>
-        <source>SETTINGS</source>
+        <id>local</id>
+        <url>/home/jboss/.m2/repository</url>
+        <source>LOCAL</source>
       </metadata>
     </repository>
   </repositories>
