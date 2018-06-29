@@ -11,7 +11,7 @@
     <repository>
       <include>true</include>
       <metadata>
-        <id>repo-iidAUeh8NnCyb4f5</id>
+        <id>repo-fgHBJr29zpOvlJc2</id>
         <url>http://nexus-pam7-dallas-take3.apps.na37.openshift.opentlc.com/nexus/content/groups/maven-public/</url>
         <source>SETTINGS</source>
       </metadata>
