@@ -3,16 +3,16 @@
     <repository>
       <include>true</include>
       <metadata>
-        <id>repo-fgHBJr29zpOvlJc2</id>
-        <url>http://nexus-pam7-dallas-take3.apps.na37.openshift.opentlc.com/nexus/content/groups/maven-public/</url>
+        <id>central</id>
+        <url>https://repo1.maven.org/maven2</url>
         <source>SETTINGS</source>
       </metadata>
     </repository>
     <repository>
       <include>true</include>
       <metadata>
-        <id>central</id>
-        <url>https://repo1.maven.org/maven2</url>
+        <id>repo-fgHBJr29zpOvlJc2</id>
+        <url>http://nexus-pam7-dallas-take3.apps.na37.openshift.opentlc.com/nexus/content/groups/maven-public/</url>
         <source>SETTINGS</source>
       </metadata>
     </repository>
